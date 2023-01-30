@@ -1,0 +1,13 @@
+.App-logo {
+  width: 100%;
+  pointer-events: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  padding: 20px;
+}
